@@ -1,0 +1,16 @@
+body{
+    background-color: pink;
+}
+h1{
+    color: green;
+
+}
+p{
+    color: rgb(14, 43, 233);
+    background-color: rgb(211, 226, 43);
+}
+a{
+    color: saddlebrown;
+    font-size: 50px;
+
+}
